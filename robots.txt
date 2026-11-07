@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stays.theblessedfigtree.com/sitemap.xml
